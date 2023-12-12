@@ -1,10 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Miriam Alyeshmerni!</h1>
 <h3 align="center">A passionate and motivated Software Developer from New York</h3>
 
+- 👯 I’m currently collaborating on [FlixNet](https://github.com/jon-slva/flixnet/tree/main)
+  
 - 🔭 I’m currently working on [Hydrate or Dydrate](https://github.com/malyesh/hydrate-or-dydrate)
 
-- 🌱 I’m currently learning **TypeScript and Flutter!**
-
+- 🌱 I’m currently learning **TypeScript!**
 - 📫 How to reach me **malyeshmerni@gmail.com**
 
 - ⚡ Fun fact **I am a sucker for those super niche products that are a total waste of money but make one specific process easier**
